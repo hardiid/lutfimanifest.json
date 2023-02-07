@@ -1,0 +1,36 @@
+{
+  "name": "Lutfi.hardi.id",
+  "short_name": "Lutfi.hardi.id",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "start_url": "https://lutfi.hardi.id/",
+  "background_color": "#50e3c2",
+  "theme_color": "#4a90e2",
+  "description": "Jasa Panggilan Service | Penjualan Printer, Komputer, Laptop, Lab Komputer, Pasang Wifi, Hotspot ke Rumah, Kantor, Toko, Pabrik, Cafe, Resto, Kasir",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvSOixq0ui3zNFOnfz1Mxx8qVycyS9tGP7XSwGJ-_ZzidsssaYCHJsnZnzAfATc3N9cNAy84mE9QEnN1JufOJbHiwOTwStu0y-S6MGeHnQ6dX6y4YWJr1IpbNsxY5poBLoEjJ3rjPnCpjPZgIi53A67kpgZPqSqEL6RFEYVcdJxKY3tyn3upiilO2o/s1600/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvSOixq0ui3zNFOnfz1Mxx8qVycyS9tGP7XSwGJ-_ZzidsssaYCHJsnZnzAfATc3N9cNAy84mE9QEnN1JufOJbHiwOTwStu0y-S6MGeHnQ6dX6y4YWJr1IpbNsxY5poBLoEjJ3rjPnCpjPZgIi53A67kpgZPqSqEL6RFEYVcdJxKY3tyn3upiilO2o/s1600/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9F5yGLJXixh0y7ZAUO70GE3AksH-TFMJylCLVdZz1V9ctIyoxU3wDdc3W-kZHTJwUhd7v_Gq8HcYEgIqb8aSK148VZXyCcM-v4DY8Y33qF1cRrtwp7AgPvF8_RFN6UghAbaaali2rzYuKDwXVDFBsGs-vPvWpPwDKUmz-d5wCadVYbwW67mRzoWj/s1600/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgp_F9FCIwdquza9REYbm3LbypMjB51M6l2uwM419IZ0sxcNUV5hw0sZq9K-dJV6rRPm68vXHtCIx-N1d3bO0MRdLQ5ZfFQyiEHDRJ8aB--FeltWO4elgb63uC0L4oWEsLhumNSbws6W9p3mAlW_8-JcQEBYN3LLessrC4bQY3YVW2J-XzFZXtvXY7AVw",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+    ]
+  }
